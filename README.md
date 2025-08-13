@@ -31,7 +31,7 @@
       <div align="center">
         <h2><b>How to Reach Me</b></h2>
         <p>Please feel free to contact me for more details or collaboration.</p>
-        <a href="https://github.com/Amirmahdiatashzamzam" target="_blank">
+        <a href="https://github.com/Amirmahdi991" target="_blank">
           <img align="center" alt="GitHub" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/github.png" />
         </a> &nbsp;&nbsp;
         <a href="mailto:amirmahdiatashzamzam83@gmail.com">
